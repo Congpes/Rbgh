@@ -1,26 +1,11 @@
 
 
-REM Check if Python is installed
-py --version >nul 2>&1
-if %ERRORLEVEL% neq 0 (
-    echo [ERROR] Python chua duoc cai dat!
-    echo Vui long tai Python tu: https://python.org
-    pause
-    exit /b 1
-)
-
-REM Check if virtual environment exists
-if not exist "venv" (
-    echo [INFO] Tao virtual environment...
-    py -m venv venv
-)
-
 REM Activate virtual environment
 echo [INFO] Kich hoat virtual environment...
 call venv\Scripts\activate.bat
 
 REM Install dependencies
-if not exist "venv\installed.flag" (
+if not exist "venv\installed.flag" (    
     echo [INFO] Cai dat dependencies...
     pip install -r requirements.txt
     echo. > venv\installed.flag
