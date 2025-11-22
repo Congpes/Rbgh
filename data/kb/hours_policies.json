@@ -1,0 +1,40 @@
+[
+  {
+    "id": "hours-reception",
+    "title": "Giờ làm việc lễ tân",
+    "text": "Lễ tân mở cửa 08:00–17:30 từ Thứ Hai đến Thứ Sáu. Ngoài giờ có số hotline dán tại quầy.",
+    "tags": ["hours", "reception"]
+  },
+  {
+    "id": "hours-building-open",
+    "title": "Giờ mở cửa tòa nhà",
+    "text": "Tòa nhà mở cửa 07:30–21:00 các ngày trong tuần. Sau 21:00 cần đăng ký trước để vào.",
+    "tags": ["hours", "building"]
+  },
+  {
+    "id": "hours-meeting-room",
+    "title": "Giờ sử dụng phòng họp",
+    "text": "Phòng họp phục vụ 08:00–20:00. Vui lòng đặt trước tối thiểu 1 giờ qua lễ tân hoặc QR tại cửa phòng.",
+    "tags": ["hours", "meeting"]
+  },
+  {
+    "id": "hours-pantry",
+    "title": "Giờ pantry/cà phê",
+    "text": "Khu pantry hoạt động 08:00–18:00. Vui lòng giữ vệ sinh chung sau khi sử dụng.",
+    "tags": ["hours", "pantry"]
+  },
+  {
+    "id": "hours-parking",
+    "title": "Giờ gửi xe",
+    "text": "Bãi xe mở 07:00–21:30 hằng ngày. Khách vãng lai liên hệ lễ tân để nhận thẻ gửi xe.",
+    "tags": ["hours", "parking"]
+  },
+  {
+    "id": "policy-quiet",
+    "title": "Giờ yên tĩnh",
+    "text": "Giờ yên tĩnh khuyến nghị 12:00–13:30 và sau 19:00 tại khu làm việc mở.",
+    "tags": ["policy", "quiet"]
+  }
+]
+
+

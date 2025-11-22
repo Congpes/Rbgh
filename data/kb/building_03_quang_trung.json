@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bldg-address",
+    "title": "Địa chỉ tòa nhà",
+    "text": "Tòa nhà 4 tầng tại số 03 Quang Trung, Hải Châu, Đà Nẵng.",
+    "tags": ["building", "address"]
+  },
+  {
+    "id": "bldg-overview",
+    "title": "Tổng quan tòa nhà",
+    "text": "Tòa nhà gồm 4 tầng, có thang máy, thang bộ, khu lễ tân, phòng họp, khu làm việc, khu pantry/cà phê và bãi đậu xe máy phía sau.",
+    "tags": ["building", "overview"]
+  },
+  {
+    "id": "bldg-floor1",
+    "title": "Sơ đồ Tầng 1",
+    "text": "Tầng 1: Lễ tân, sảnh chờ, khu tiếp khách, pantry/cà phê mini, WC, thang máy và thang bộ.",
+    "tags": ["building", "floor", "1"]
+  },
+  {
+    "id": "bldg-floor2",
+    "title": "Sơ đồ Tầng 2",
+    "text": "Tầng 2: Phòng họp lớn 12–16 người, 2 phòng họp nhỏ 4–6 người, khu làm việc linh hoạt, WC.",
+    "tags": ["building", "floor", "2"]
+  },
+  {
+    "id": "bldg-floor3",
+    "title": "Sơ đồ Tầng 3",
+    "text": "Tầng 3: Khu làm việc chính, 1 phòng họp nhỏ, khu phone booth, WC.",
+    "tags": ["building", "floor", "3"]
+  },
+  {
+    "id": "bldg-floor4",
+    "title": "Sơ đồ Tầng 4",
+    "text": "Tầng 4: Phòng training/sự kiện 30–40 người, sân thượng nhỏ, kho thiết bị, WC.",
+    "tags": ["building", "floor", "4"]
+  },
+  {
+    "id": "bldg-elevator",
+    "title": "Vị trí thang máy",
+    "text": "Thang máy nằm gần khu lễ tân tầng 1, đối diện sảnh chờ. Các tầng đều có bảng chỉ dẫn khi ra thang máy.",
+    "tags": ["building", "elevator"]
+  },
+  {
+    "id": "bldg-stairs",
+    "title": "Vị trí thang bộ",
+    "text": "Thang bộ nằm cạnh thang máy ở phía trong sảnh. Vui lòng dùng thang bộ khi có báo động an toàn.",
+    "tags": ["building", "stairs", "safety"]
+  },
+  {
+    "id": "bldg-reception",
+    "title": "Lễ tân ở đâu",
+    "text": "Quầy lễ tân đặt tại tầng 1, mở cửa 8:00–17:30 các ngày làm việc. Ngoài giờ có số hotline dán tại quầy.",
+    "tags": ["building", "reception"]
+  },
+  {
+    "id": "bldg-meeting-booking",
+    "title": "Đặt phòng họp",
+    "text": "Bạn có thể đặt phòng họp tại lễ tân tầng 1 hoặc quét mã QR tại cửa phòng để đặt nhanh.",
+    "tags": ["meeting", "booking"]
+  },
+  {
+    "id": "bldg-parking",
+    "title": "Gửi xe",
+    "text": "Bãi xe máy ở phía sau tòa nhà, vào cổng hông. Khách vãng lai liên hệ lễ tân để nhận thẻ.",
+    "tags": ["parking"]
+  },
+  {
+    "id": "bldg-wifi",
+    "title": "Wifi và thông tin mạng",
+    "text": "Tên wifi khách: GUEST-03QT. Mật khẩu vui lòng liên hệ lễ tân hoặc xem bảng thông báo tại sảnh.",
+    "tags": ["wifi", "network"]
+  },
+  {
+    "id": "bldg-safety",
+    "title": "An toàn và thoát hiểm",
+    "text": "Khi có chuông báo cháy, vui lòng đi theo lối thang bộ tới điểm tập kết trước cổng chính số 03 Quang Trung.",
+    "tags": ["safety", "evacuation"]
+  }
+]
+
+

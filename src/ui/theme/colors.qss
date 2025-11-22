@@ -1,0 +1,16 @@
+/* Color palette theo Figma thực tế */
+:root {
+    --dark-blue: #1C1492;
+    --green: #4CAF50;
+    --green-hover: #45a049;
+    --green-pressed: #3d8b40;
+    --text-white: #FFFFFF;
+    --text-secondary: rgba(255, 255, 255, 0.8);
+    --brown: #8D6E63;
+}
+
+/* Background theo Figma - nền xanh đậm */
+QWidget#homeScreen {
+    background-color: #1C1492;
+}
+

@@ -1,0 +1,61 @@
+
+{
+  "app": {
+    "name": "Food Delivery Robot",
+    "version": "1.0.0",
+    "debug": true,
+    "fullscreen": false,
+    "window_size": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  "robot": {
+    "name": "FoodBot-01",
+    "base_speed": 0.5,
+    "max_speed": 1.0,
+    "battery_warning": 20,
+    "home_position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "ui": {
+    "theme": "light",
+    "primary_color": "#4CAF50",
+    "secondary_color": "#FF9800",
+    "font_size": 14,
+    "animation_speed": 300
+  },
+  "phone_system": {
+    "sip_server": "192.168.1.100",
+    "sip_port": 5060,
+    "username": "robot001",
+    "password": "your_password",
+    "ring_timeout": 30
+  },
+  "cabinets": {
+    "left": {
+      "name": "Tủ trái",
+      "pin": 18,
+      "capacity": 10
+    },
+    "right": {
+      "name": "Tủ phải", 
+      "pin": 19,
+      "capacity": 10
+    },
+    "bottom": {
+      "name": "Tủ dưới",
+      "pin": 20,
+      "capacity": 15
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/robot.log",
+    "max_size": "10MB",
+    "backup_count": 5
+  }
+}

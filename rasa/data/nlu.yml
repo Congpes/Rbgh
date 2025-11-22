@@ -1,0 +1,46 @@
+version: "3.1"
+nlu:
+  - intent: greet
+    examples: |
+      - xin chào
+      - chào bạn
+      - chào buổi sáng
+      - hello
+
+  - intent: ask_time
+    examples: |
+      - bây giờ là mấy giờ
+      - cho mình biết thời gian hiện tại
+      - mấy giờ rồi
+
+  - intent: ask_date
+    examples: |
+      - hôm nay là ngày bao nhiêu
+      - hôm nay là ngày mấy
+      - hôm nay thứ mấy
+
+  - intent: ask_weather
+    examples: |
+      - thời tiết hôm nay thế nào
+      - trời hôm nay ra sao
+      - có mưa không
+
+  - intent: ask_building_info
+    examples: |
+      - địa chỉ tòa nhà là gì
+      - sơ đồ tầng 1
+      - thang máy ở đâu
+      - gửi xe ở đâu
+
+  - intent: ask_fun_places
+    examples: |
+      - gần đây có chỗ vui chơi nào
+      - có quán cà phê nào gần đây không
+      - đi dạo ở đâu gần tòa nhà
+
+  - intent: health_help
+    examples: |
+      - cần hỗ trợ y tế
+      - tôi bị đau, giúp với
+      - gọi cấp cứu
+

@@ -1,0 +1,93 @@
+{
+  "101": {
+    "name": "Phòng 101",
+    "floor": 1,
+    "type": "room",
+    "phone": "101", 
+    "position": {"x": 5.0, "y": 2.0},
+    "description": "Phòng khách tiêu chuẩn"
+  },
+  "102": {
+    "name": "Phòng 102", 
+    "floor": 1,
+    "type": "room",
+    "phone": "102",
+    "position": {"x": 10.0, "y": 2.0},
+    "description": "Phòng khách tiêu chuẩn"
+  },
+  "103": {
+    "name": "Phòng 103",
+    "floor": 1, 
+    "type": "room",
+    "phone": "103",
+    "position": {"x": 15.0, "y": 2.0},
+    "description": "Phòng khách có ban công"
+  },
+  "104": {
+    "name": "Phòng 104",
+    "floor": 1,
+    "type": "room", 
+    "phone": "104",
+    "position": {"x": 20.0, "y": 2.0},
+    "description": "Phòng khách góc"
+  },
+  "201": {
+    "name": "Phòng 201",
+    "floor": 2,
+    "type": "room",
+    "phone": "201",
+    "position": {"x": 5.0, "y": 7.0}, 
+    "description": "Phòng tầng 2"
+  },
+  "202": {
+    "name": "Phòng 202",
+    "floor": 2,
+    "type": "room", 
+    "phone": "202",
+    "position": {"x": 10.0, "y": 7.0},
+    "description": "Phòng tầng 2"
+  },
+  "203": {
+    "name": "Phòng 203",
+    "floor": 2,
+    "type": "room",
+    "phone": "203", 
+    "position": {"x": 15.0, "y": 7.0},
+    "description": "Phòng tầng 2 có view đẹp"
+  },
+  "204": {
+    "name": "Phòng 204",
+    "floor": 2,
+    "type": "room",
+    "phone": "204",
+    "position": {"x": 20.0, "y": 7.0},
+    "description": "Phòng suite nhỏ"
+  },
+  "105": {"name": "Phòng 105", "floor": 1, "type": "room", "phone": "105"},
+  "106": {"name": "Phòng 106", "floor": 1, "type": "room", "phone": "106"},
+  "107": {"name": "Phòng 107", "floor": 1, "type": "room", "phone": "107"},
+  "108": {"name": "Phòng 108", "floor": 1, "type": "room", "phone": "108"},
+
+  "205": {"name": "Phòng 205", "floor": 2, "type": "room", "phone": "205"},
+  "206": {"name": "Phòng 206", "floor": 2, "type": "room", "phone": "206"},
+  "207": {"name": "Phòng 207", "floor": 2, "type": "room", "phone": "207"},
+  "208": {"name": "Phòng 208", "floor": 2, "type": "room", "phone": "208"},
+
+  "301": {"name": "Phòng 301", "floor": 3, "type": "room", "phone": "301"},
+  "302": {"name": "Phòng 302", "floor": 3, "type": "room", "phone": "302"},
+  "303": {"name": "Phòng 303", "floor": 3, "type": "room", "phone": "303"},
+  "304": {"name": "Phòng 304", "floor": 3, "type": "room", "phone": "304"},
+  "305": {"name": "Phòng 305", "floor": 3, "type": "room", "phone": "305"},
+  "306": {"name": "Phòng 306", "floor": 3, "type": "room", "phone": "306"},
+  "307": {"name": "Phòng 307", "floor": 3, "type": "room", "phone": "307"},
+  "308": {"name": "Phòng 308", "floor": 3, "type": "room", "phone": "308"},
+
+  "401": {"name": "Phòng 401", "floor": 4, "type": "room", "phone": "401"},
+  "402": {"name": "Phòng 402", "floor": 4, "type": "room", "phone": "402"},
+  "403": {"name": "Phòng 403", "floor": 4, "type": "room", "phone": "403"},
+  "404": {"name": "Phòng 404", "floor": 4, "type": "room", "phone": "404"},
+  "405": {"name": "Phòng 405", "floor": 4, "type": "room", "phone": "405"},
+  "406": {"name": "Phòng 406", "floor": 4, "type": "room", "phone": "406"},
+  "407": {"name": "Phòng 407", "floor": 4, "type": "room", "phone": "407"},
+  "408": {"name": "Phòng 408", "floor": 4, "type": "room", "phone": "408"}
+}

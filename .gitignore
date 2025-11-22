@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.onnx
+*.dll
+*.lib
+*.exe
+*.fst
+*.mdl
+*.ort
+data/models/
+data/models/**/*
+*.wav
+*.mp3
+.env

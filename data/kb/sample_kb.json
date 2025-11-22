@@ -1,0 +1,22 @@
+[
+  {
+    "id": "intro-robot",
+    "title": "Giới thiệu robot phục vụ",
+    "text": "Robot phục vụ có thể giao đồ ăn, dẫn đường và thông báo bằng giọng nói.",
+    "tags": ["intro", "robot"]
+  },
+  {
+    "id": "pickup-guide",
+    "title": "Hướng dẫn nhận đồ",
+    "text": "Khi robot đến nơi, cửa tủ sẽ mở. Vui lòng lấy đồ và đóng cửa lại.",
+    "tags": ["guide", "pickup"]
+  },
+  {
+    "id": "contact-support",
+    "title": "Liên hệ hỗ trợ",
+    "text": "Nếu cần hỗ trợ, vui lòng gọi lễ tân hoặc nhấn nút trợ giúp trên màn hình.",
+    "tags": ["support"]
+  }
+]
+
+

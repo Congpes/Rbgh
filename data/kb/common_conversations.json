@@ -1,0 +1,18 @@
+[
+  { "id": "greet-hello", "title": "Xin chào", "text": "Xin chào! Tôi có thể giúp gì cho bạn hôm nay?", "tags": ["greeting"] },
+  { "id": "greet-morning", "title": "Chào buổi sáng", "text": "Chào buổi sáng! Chúc bạn một ngày tốt lành.", "tags": ["greeting"] },
+  { "id": "greet-evening", "title": "Chào buổi tối", "text": "Chào buổi tối! Tôi sẵn sàng hỗ trợ bạn.", "tags": ["greeting"] },
+
+  { "id": "smalltalk-how-are-you", "title": "Bạn khỏe không", "text": "Tôi vẫn hoạt động tốt, cảm ơn bạn! Còn bạn thì sao?", "tags": ["smalltalk", "health"] },
+  { "id": "smalltalk-thanks", "title": "Cảm ơn", "text": "Rất vui được giúp bạn!", "tags": ["smalltalk"] },
+  { "id": "smalltalk-bye", "title": "Tạm biệt", "text": "Tạm biệt! Hẹn gặp lại bạn sau.", "tags": ["smalltalk"] },
+  { "id": "smalltalk-repeat", "title": "Xin vui lòng nói lại", "text": "Xin vui lòng nói lại ạ.", "tags": ["smalltalk"] },
+
+  { "id": "weather-today", "title": "Thời tiết hôm nay", "text": "Hiện tôi không có dữ liệu thời tiết thời gian thực. Nhưng bạn có thể xem nhanh trên ứng dụng thời tiết hoặc hỏi lễ tân.", "tags": ["weather"] },
+  { "id": "weather-rain", "title": "Có mưa không", "text": "Tôi không có dữ liệu trực tiếp. Nếu bạn chuẩn bị ra ngoài, bạn nên mang theo áo mưa đề phòng.", "tags": ["weather"] },
+
+  { "id": "health-help", "title": "Cần hỗ trợ y tế", "text": "Nếu cần hỗ trợ y tế khẩn cấp, vui lòng liên hệ 115 hoặc báo ngay cho lễ tân tại tầng 1.", "tags": ["health", "safety"] },
+  { "id": "health-medicine", "title": "Mua thuốc ở đâu", "text": "Gần đây có nhiều nhà thuốc trên đường Quang Trung và Nguyễn Văn Linh. Bạn có thể hỏi lễ tân để chỉ đường cụ thể.", "tags": ["health"] }
+]
+
+

@@ -1,0 +1,73 @@
+/* Base styles cho các component */
+QWidget {
+    font-family: "Arial", sans-serif;
+}
+
+/* Clock Widget - chữ trắng trên nền xanh đậm */
+ClockWidget {
+    background: transparent;
+    color: white;
+    font-weight: bold;
+}
+
+ClockWidget QLabel#timeLabel {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+ClockWidget QLabel#dateLabel {
+    font-size: 16px;
+    color: white;
+    margin-top: 5px;
+}
+
+/* Delivery Icon */
+DeliveryIcon {
+    background: transparent;
+}
+
+DeliveryIcon QPushButton {
+    background-color: #4CAF50;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 24px;
+    min-width: 80px;
+    min-height: 80px;
+}
+
+DeliveryIcon QPushButton:hover {
+    background-color: #45a049;
+    border: 2px solid #FFD700;
+}
+
+DeliveryIcon QPushButton:pressed {
+    background-color: #3d8b40;
+}
+
+DeliveryIcon QLabel {
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/* Back Button - dấu gạch ngang trắng theo Figma */
+BackButton {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    min-width: 50px;
+    min-height: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+BackButton:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
+BackButton:pressed {
+    background-color: #3d8b40;
+}
+

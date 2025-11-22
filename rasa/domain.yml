@@ -1,0 +1,24 @@
+version: "3.1"
+intents:
+  - greet
+  - ask_time
+  - ask_date
+  - ask_weather
+  - ask_building_info
+  - ask_fun_places
+  - health_help
+
+responses:
+  utter_greet:
+    - text: "Xin chào! Tôi có thể giúp gì cho bạn?"
+
+actions:
+  - action_get_time
+  - action_get_date
+  - action_get_weather
+  - action_kb_lookup
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+

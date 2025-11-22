@@ -1,0 +1,29 @@
+version: "3.1"
+rules:
+  - rule: Chào hỏi
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - rule: Lấy giờ hiện tại
+    steps:
+      - intent: ask_time
+      - action: action_get_time
+
+  - rule: Lấy ngày hiện tại
+    steps:
+      - intent: ask_date
+      - action: action_get_date
+
+  - rule: Lấy thời tiết
+    steps:
+      - intent: ask_weather
+      - action: action_get_weather
+
+  - rule: Tra cứu KB mặc định
+    steps:
+      - intent: ask_building_info
+      - action: action_kb_lookup
+      - intent: ask_fun_places
+      - action: action_kb_lookup
+

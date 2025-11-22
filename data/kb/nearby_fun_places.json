@@ -1,0 +1,40 @@
+[
+  {
+    "id": "fun-han-river",
+    "title": "Sông Hàn",
+    "text": "Sông Hàn cách 300–500m, đi bộ 5–7 phút từ 03 Quang Trung. Buổi tối có nhiều quán cà phê và ngắm cầu quay Sông Hàn cuối tuần.",
+    "tags": ["nearby", "river", "sightseeing"]
+  },
+  {
+    "id": "fun-dragon-bridge",
+    "title": "Cầu Rồng",
+    "text": "Cầu Rồng cách khoảng 1.8km, xe máy 7–10 phút. Thứ Bảy, Chủ nhật tối có phun lửa và nước.",
+    "tags": ["nearby", "bridge", "show"]
+  },
+  {
+    "id": "fun-han-market",
+    "title": "Chợ Hàn",
+    "text": "Chợ Hàn cách ~1km, nổi tiếng với đặc sản Đà Nẵng và ẩm thực địa phương.",
+    "tags": ["nearby", "market", "food"]
+  },
+  {
+    "id": "fun-museum-cham",
+    "title": "Bảo tàng Điêu khắc Chăm",
+    "text": "Cách ~1.3km, trưng bày bộ sưu tập điêu khắc Chăm lớn nhất thế giới.",
+    "tags": ["nearby", "museum", "culture"]
+  },
+  {
+    "id": "fun-beach-my-khe",
+    "title": "Biển Mỹ Khê",
+    "text": "Cách ~3.5–4km, di chuyển 10–15 phút. Bãi biển đẹp, nhiều hoạt động vui chơi và ẩm thực.",
+    "tags": ["nearby", "beach"]
+  },
+  {
+    "id": "fun-coffee-street",
+    "title": "Phố cà phê Nguyễn Văn Linh",
+    "text": "Khu vực nhiều quán cà phê và đồ ăn đêm, cách ~1km từ 03 Quang Trung.",
+    "tags": ["nearby", "coffee", "food"]
+  }
+]
+
+
